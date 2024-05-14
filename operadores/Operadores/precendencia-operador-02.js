@@ -1,0 +1,3 @@
+let resultador = 10 + 8 + 12 /3;
+console.log(resultado);
+//Qual é o resultado
